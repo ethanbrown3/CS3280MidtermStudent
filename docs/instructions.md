@@ -77,14 +77,14 @@ Part 1:
 
 | Requirement | Points Possible |
 | ----------- | --------------- |
-| 3 Shape classes inherit from Shape and are implemented properly | |
-| ToString() methods are formatted correctly and use string interpolation | |
-| Area Property returns the correct area for the shape as a `double` | |
+| 3 Shape classes inherit from Shape and are implemented properly | 25 |
+| ToString() methods are formatted correctly and use string interpolation | 10 |
+| Area Property returns the correct area for the shape as a `double` | 10 |
 
 Part 2:
 
 | Requirement | Points Possible |
 | ----------- | --------------- |
-| No repeated code for the 3 shapes | |
-| Output to outputBox is correctly formatted | |
-| All input is validated (no exception are able to crash the app) | |
+| No repeated code for the 3 shapes | 30 |
+| Output to outputBox is correctly formatted | 10 |
+| All input is validated (no exceptions are able to crash the app) | 15 |
