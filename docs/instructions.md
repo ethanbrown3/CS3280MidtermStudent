@@ -38,6 +38,10 @@ Circle: Radius = 16.23495812  // don't worry about truncating this, just print i
 When the above tasks are completed you should test your code with the included unit test project.
 You must be passing all 6 tests to get full credit on this part.
 
+You can also test your class's code by running the console program that is included. Here is an example output from it.
+
+![Console App Screenshot](images/shapes-console-screenshot.png)
+
 >Make a commit with the message *"Part 1 Complete"* when you finish this part.
 
 ## Part 2: Windows Forms ##
